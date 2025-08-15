@@ -3,7 +3,8 @@ Hi there 👋, I am Divya D
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Selenium Mini project
+- 🔭 I’m currently working on Selenium Mini project                                                                            <img width="512" height="512" alt="software-testing" src="https://github.com/user-attachments/assets/58d63ef5-0638-4dd4-b495-dfb4ab16e6b5" />
+
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Selenium, Java, Cucumber, testNG
 - 📫 How to reach me: [divi270319@gmail.com](divi270319@gmail.com)
