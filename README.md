@@ -1,5 +1,5 @@
 **Hi there 👋, I am Divya D**
-                                      <img width="300" height="512" align="right" alt="software-testing" src="https://github.com/user-attachments/assets/58d63ef5-0638-4dd4-b495-dfb4ab16e6b5" />
+                                      <img width="200" height="512" align="right" alt="software-testing" src="https://github.com/user-attachments/assets/58d63ef5-0638-4dd4-b495-dfb4ab16e6b5" />
 
 Here are some ideas to get you started:             
 
