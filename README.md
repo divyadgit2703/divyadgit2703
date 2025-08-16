@@ -7,13 +7,18 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Selenium, Java, Cucumber, testNG
 - 📫 How to reach me: [divi270319@gmail.com](divi270319@gmail.com)
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1Ca7-9V4HeQ5m3Dro47OKIvdaWPnFZs70/view?usp=sharing)
+<br><br><br>
 
-Language and Tools
+🛠 Languages and Tools
 
-[<img width="100" height="100" target="_blank" alt="icons8-java-100" src="https://github.com/user-attachments/assets/2f9b94d0-782a-4728-9762-29f39a24d9e4" />](https://www.tutorialspoint.com/java/index.htm)
-  [<img width="100" height="100" target="_blank" alt="icons8-selenium-100" src="https://github.com/user-attachments/assets/86f5f3ec-229a-45aa-8cc9-6cf5d0fad12e" />](https://www.selenium.dev/documentation/webdriver/getting_started/)  [<img width="100" height="100" target="_blank" alt="icons8-jenkins-100" src="https://github.com/user-attachments/assets/bf072593-cb6e-434b-8fce-65a976ce8c43" />](https://www.jenkins.io/doc/tutorials/)
+  <img src="https://github.com/user-attachments/assets/3a1520a4-de2e-42d6-a68b-c4145fa7f1f3" alt="Java Icon" width="70"  style="vertical-align: middle;" />   <img src="https://github.com/user-attachments/assets/9474fcf2-54da-44c6-ae63-64a9c92f69b0" alt="Java Icon" width="70"  style="vertical-align: middle;" />   <img src="https://github.com/user-attachments/assets/893070e0-bf11-4b1f-a55e-ddf4f6bb27ee" alt="Java Icon" width="70"  style="vertical-align: middle;" />   <img src="https://github.com/user-attachments/assets/5cee8def-cc24-4499-8c4b-23c0e2183338" alt="Java Icon" width="70"  style="vertical-align: middle;" />  <img src="https://github.com/user-attachments/assets/c3096c85-5862-4666-8d08-edeeee3d9460" alt="Java Icon" width="70"  style="vertical-align: middle;" />   <img src="https://github.com/user-attachments/assets/2ae428ca-0a86-4cfd-9e4a-24bf1db17813" alt="Java Icon" width="70"  style="vertical-align: middle;" />   <img src="https://github.com/user-attachments/assets/2fb2aa38-88c1-4c18-9ec2-283966cc9e82" alt="Java Icon" width="70"  style="vertical-align: middle;" />     <img src="https://github.com/user-attachments/assets/9e9469ec-c306-4aa0-b29f-f6a5e72fe567" alt="Java Icon" width="80"  style="vertical-align: middle;" /> 
+      
+      
+      
+      
 
-  
+
 
 
 
