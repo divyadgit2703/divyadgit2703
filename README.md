@@ -2,8 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Selenium Mini project       <img width="300" height="512" alt="software-testing" align="right" src="https://github.com/user-attachments/assets/d839d320-9737-45ec-91ad-cbad6181b57f"  width="200" alt="Your photo" />
-                                                     
+- 🔭 I’m currently working on Selenium Mini project            
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ... Selenium, Java, Cucumber, testNG
 - 📫 How to reach me: [divi270319@gmail.com](divi270319@gmail.com)
